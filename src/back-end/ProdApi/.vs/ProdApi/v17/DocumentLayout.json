@@ -1,0 +1,239 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lenil\\source\\repos\\ProdApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD676939-2704-4227-B43F-495C52D0A8BE}|ProdApi\\ProdApi.csproj|c:\\users\\lenil\\source\\repos\\prodapi\\prodapi\\services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD676939-2704-4227-B43F-495C52D0A8BE}|ProdApi\\ProdApi.csproj|solutionrelative:prodapi\\services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD676939-2704-4227-B43F-495C52D0A8BE}|ProdApi\\ProdApi.csproj|c:\\users\\lenil\\source\\repos\\prodapi\\prodapi\\services\\csvservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD676939-2704-4227-B43F-495C52D0A8BE}|ProdApi\\ProdApi.csproj|solutionrelative:prodapi\\services\\csvservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD676939-2704-4227-B43F-495C52D0A8BE}|ProdApi\\ProdApi.csproj|c:\\users\\lenil\\source\\repos\\prodapi\\prodapi\\services\\buscaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD676939-2704-4227-B43F-495C52D0A8BE}|ProdApi\\ProdApi.csproj|solutionrelative:prodapi\\services\\buscaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD676939-2704-4227-B43F-495C52D0A8BE}|ProdApi\\ProdApi.csproj|c:\\users\\lenil\\source\\repos\\prodapi\\prodapi\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD676939-2704-4227-B43F-495C52D0A8BE}|ProdApi\\ProdApi.csproj|solutionrelative:prodapi\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD676939-2704-4227-B43F-495C52D0A8BE}|ProdApi\\ProdApi.csproj|c:\\users\\lenil\\source\\repos\\prodapi\\prodapi\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD676939-2704-4227-B43F-495C52D0A8BE}|ProdApi\\ProdApi.csproj|solutionrelative:prodapi\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD676939-2704-4227-B43F-495C52D0A8BE}|ProdApi\\ProdApi.csproj|c:\\users\\lenil\\source\\repos\\prodapi\\prodapi\\models\\loginresp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD676939-2704-4227-B43F-495C52D0A8BE}|ProdApi\\ProdApi.csproj|solutionrelative:prodapi\\models\\loginresp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD676939-2704-4227-B43F-495C52D0A8BE}|ProdApi\\ProdApi.csproj|c:\\users\\lenil\\source\\repos\\prodapi\\prodapi\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD676939-2704-4227-B43F-495C52D0A8BE}|ProdApi\\ProdApi.csproj|solutionrelative:prodapi\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD676939-2704-4227-B43F-495C52D0A8BE}|ProdApi\\ProdApi.csproj|c:\\users\\lenil\\source\\repos\\prodapi\\prodapi\\configurations\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD676939-2704-4227-B43F-495C52D0A8BE}|ProdApi\\ProdApi.csproj|solutionrelative:prodapi\\configurations\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD676939-2704-4227-B43F-495C52D0A8BE}|ProdApi\\ProdApi.csproj|c:\\users\\lenil\\source\\repos\\prodapi\\prodapi\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD676939-2704-4227-B43F-495C52D0A8BE}|ProdApi\\ProdApi.csproj|solutionrelative:prodapi\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD676939-2704-4227-B43F-495C52D0A8BE}|ProdApi\\ProdApi.csproj|c:\\users\\lenil\\source\\repos\\prodapi\\prodapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD676939-2704-4227-B43F-495C52D0A8BE}|ProdApi\\ProdApi.csproj|solutionrelative:prodapi\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD676939-2704-4227-B43F-495C52D0A8BE}|ProdApi\\ProdApi.csproj|c:\\users\\lenil\\source\\repos\\prodapi\\prodapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DD676939-2704-4227-B43F-495C52D0A8BE}|ProdApi\\ProdApi.csproj|solutionrelative:prodapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD676939-2704-4227-B43F-495C52D0A8BE}|ProdApi\\ProdApi.csproj|c:\\users\\lenil\\source\\repos\\prodapi\\prodapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD676939-2704-4227-B43F-495C52D0A8BE}|ProdApi\\ProdApi.csproj|solutionrelative:prodapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD676939-2704-4227-B43F-495C52D0A8BE}|ProdApi\\ProdApi.csproj|c:\\users\\lenil\\source\\repos\\prodapi\\prodapi\\services\\relevanciaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD676939-2704-4227-B43F-495C52D0A8BE}|ProdApi\\ProdApi.csproj|solutionrelative:prodapi\\services\\relevanciaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\lenil\\source\\repos\\ProdApi\\ProdApi\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "ProdApi\\Models\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\lenil\\source\\repos\\ProdApi\\ProdApi\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "ProdApi\\Models\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-04T01:46:31.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginResp.cs",
+              "DocumentMoniker": "C:\\Users\\lenil\\source\\repos\\ProdApi\\ProdApi\\Models\\LoginResp.cs",
+              "RelativeDocumentMoniker": "ProdApi\\Models\\LoginResp.cs",
+              "ToolTip": "C:\\Users\\lenil\\source\\repos\\ProdApi\\ProdApi\\Models\\LoginResp.cs",
+              "RelativeToolTip": "ProdApi\\Models\\LoginResp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-04T01:47:08.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\lenil\\source\\repos\\ProdApi\\ProdApi\\Models\\Produto.cs",
+              "RelativeDocumentMoniker": "ProdApi\\Models\\Produto.cs",
+              "ToolTip": "C:\\Users\\lenil\\source\\repos\\ProdApi\\ProdApi\\Models\\Produto.cs",
+              "RelativeToolTip": "ProdApi\\Models\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-02T20:24:45.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\lenil\\source\\repos\\ProdApi\\ProdApi\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "ProdApi\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\lenil\\source\\repos\\ProdApi\\ProdApi\\Models\\Usuario.cs",
+              "RelativeToolTip": "ProdApi\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-04T01:47:23.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BuscaService.cs",
+              "DocumentMoniker": "C:\\Users\\lenil\\source\\repos\\ProdApi\\ProdApi\\Services\\BuscaService.cs",
+              "RelativeDocumentMoniker": "ProdApi\\Services\\BuscaService.cs",
+              "ToolTip": "C:\\Users\\lenil\\source\\repos\\ProdApi\\ProdApi\\Services\\BuscaService.cs",
+              "RelativeToolTip": "ProdApi\\Services\\BuscaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-02T20:26:14.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CsvService.cs",
+              "DocumentMoniker": "C:\\Users\\lenil\\source\\repos\\ProdApi\\ProdApi\\Services\\CsvService.cs",
+              "RelativeDocumentMoniker": "ProdApi\\Services\\CsvService.cs",
+              "ToolTip": "C:\\Users\\lenil\\source\\repos\\ProdApi\\ProdApi\\Services\\CsvService.cs",
+              "RelativeToolTip": "ProdApi\\Services\\CsvService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowCwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-02T20:25:51.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginService.cs",
+              "DocumentMoniker": "C:\\Users\\lenil\\source\\repos\\ProdApi\\ProdApi\\Services\\LoginService.cs",
+              "RelativeDocumentMoniker": "ProdApi\\Services\\LoginService.cs",
+              "ToolTip": "C:\\Users\\lenil\\source\\repos\\ProdApi\\ProdApi\\Services\\LoginService.cs",
+              "RelativeToolTip": "ProdApi\\Services\\LoginService.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAhwEsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-04T01:47:46.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "C:\\Users\\lenil\\source\\repos\\ProdApi\\ProdApi\\Configurations\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "ProdApi\\Configurations\\JwtSettings.cs",
+              "ToolTip": "C:\\Users\\lenil\\source\\repos\\ProdApi\\ProdApi\\Configurations\\JwtSettings.cs",
+              "RelativeToolTip": "ProdApi\\Configurations\\JwtSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-04T02:02:43.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProdutosController.cs",
+              "DocumentMoniker": "C:\\Users\\lenil\\source\\repos\\ProdApi\\ProdApi\\Controllers\\ProdutosController.cs",
+              "RelativeDocumentMoniker": "ProdApi\\Controllers\\ProdutosController.cs",
+              "ToolTip": "C:\\Users\\lenil\\source\\repos\\ProdApi\\ProdApi\\Controllers\\ProdutosController.cs",
+              "RelativeToolTip": "ProdApi\\Controllers\\ProdutosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-02T20:23:48.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\lenil\\source\\repos\\ProdApi\\ProdApi\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "ProdApi\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\lenil\\source\\repos\\ProdApi\\ProdApi\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "ProdApi\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-04T01:45:57.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lenil\\source\\repos\\ProdApi\\ProdApi\\appsettings.json",
+              "RelativeDocumentMoniker": "ProdApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\lenil\\source\\repos\\ProdApi\\ProdApi\\appsettings.json",
+              "RelativeToolTip": "ProdApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-04T02:01:01.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lenil\\source\\repos\\ProdApi\\ProdApi\\Program.cs",
+              "RelativeDocumentMoniker": "ProdApi\\Program.cs",
+              "ToolTip": "C:\\Users\\lenil\\source\\repos\\ProdApi\\ProdApi\\Program.cs",
+              "RelativeToolTip": "ProdApi\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAEAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-02T20:45:45.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RelevanciaService.cs",
+              "DocumentMoniker": "C:\\Users\\lenil\\source\\repos\\ProdApi\\ProdApi\\Services\\RelevanciaService.cs",
+              "RelativeDocumentMoniker": "ProdApi\\Services\\RelevanciaService.cs",
+              "ToolTip": "C:\\Users\\lenil\\source\\repos\\ProdApi\\ProdApi\\Services\\RelevanciaService.cs",
+              "RelativeToolTip": "ProdApi\\Services\\RelevanciaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T22:30:02.994Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+<section class="search-card">
+
+    <div class="header">
+
+        <div>
+
+            <h2>Pesquisar Produtos</h2>
+
+            <p>
+                Localize produtos utilizando o código ou a descrição.
+            </p>
+
+        </div>
+
+    </div>
+
+    <div class="search-area">
+
+        <div class="input-wrapper">
+
+            <span class="icon">🔍</span>
+
+            <input
+                type="text"
+                [(ngModel)]="termo"
+                placeholder="Digite o código ou descrição..."
+            >
+
+        </div>
+
+        <button class="btn-search" (click)="buscar()">
+
+            Buscar
+
+        </button>
+
+        <button class="btn-clear" (click)="limpar()">
+
+            Limpar
+
+        </button>
+
+    </div>
+
+    <div class="recent">
+
+        <span class="label">
+            Pesquisas recentes
+        </span>
+
+        <div class="chips">
+
+            <button
+                class="chip"
+                *ngFor="let item of recentes"
+                (click)="selecionarRecente(item)">
+                {{item}}
+
+            </button>
+
+        </div>
+
+    </div>
+
+</section>
