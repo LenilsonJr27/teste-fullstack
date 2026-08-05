@@ -1,0 +1,77 @@
+<header class="topbar">
+
+    <div class="logo">
+
+    <img
+        src="../../../assets/logo.png"
+        alt="Logo da empresa"
+        class="logo-img">
+    </div>
+
+    <div class="user">
+
+        <div class="avatar">
+            B
+        </div>
+
+        <div class="info">
+            <strong>Bruna Rodrigues</strong>
+        </div>
+
+        <button class="btn-sair" (click)="logout()">Sair</button>
+
+    </div>
+
+</header>
+
+<main class="container">
+
+    <section class="hero">
+
+        <h1>Catálogo de Produtos</h1>
+
+        <p>
+            Pesquise produtos utilizando código ou descrição.
+        </p>
+
+    </section>
+
+    <app-search-box 
+        (buscarProduto)="pesquisar($event)">
+    </app-search-box>
+
+    <hr>
+
+    <div class="resultado-card" *ngIf="produtos.length > 0">
+
+  <h2>Produtos encontrados</h2>
+
+  <table class="tabela-produtos">
+
+    <thead>
+      <tr>
+        <th>Código</th>
+        <th>Descrição</th>
+        <th>Cor</th>
+        <th>Tamanho</th>
+      </tr>
+    </thead>
+
+    <tbody>
+      <tr *ngFor="let produto of produtos">
+        <td>{{ produto.codigoProduto }}</td>
+        <td>{{ produto.descricaoProduto }}</td>
+        <td>{{ produto.descricaoCor }}</td>
+        <td>{{ produto.descricaoTamanho }}</td>
+      </tr>
+    </tbody>
+
+  </table>
+
+</div>
+
+    <div *ngIf="produtos.length === 0" class="sem-resultados">
+        Nenhum produto encontrado.
+    </div>
+
+</main>
