@@ -212,22 +212,6 @@ http://localhost:4200
 
 ---
 
-# 📷 Telas
-
-## Login
-
-*Adicione um print da tela.*
-
-## Pesquisa de Produtos
-
-*Adicione um print da tela.*
-
-## Swagger
-
-*Adicione um print da documentação da API.*
-
----
-
 # 🎯 Objetivos do projeto
 
 Este projeto foi desenvolvido para praticar e demonstrar conhecimentos em:
